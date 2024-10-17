@@ -41,8 +41,11 @@ body {
   }
 }
 
-.search {
+.filter {
   padding: 10px;
+  .filter-btn {
+    padding: 5px 15px;
+  }
 }
 
 .res-container {

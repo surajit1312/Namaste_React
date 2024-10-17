@@ -249,9 +249,9 @@ const resList = [
                 "Desserts",
                 "Beverages"
             ],
-            "avgRating": 4.1,
+            "avgRating": 3.2,
             "parentId": "5152",
-            "avgRatingString": "4.1",
+            "avgRatingString": "3.2",
             "totalRatingsString": "3.6K+",
             "sla": {
                 "deliveryTime": 27,
@@ -357,10 +357,10 @@ const resList = [
                 "Ice Cream",
                 "Desserts"
             ],
-            "avgRating": 4.6,
+            "avgRating": 3.9,
             "veg": true,
             "parentId": "726",
-            "avgRatingString": "4.6",
+            "avgRatingString": "3.9",
             "totalRatingsString": "5.7K+",
             "sla": {
                 "deliveryTime": 16,
@@ -495,10 +495,10 @@ const resList = [
                 "Indian",
                 "Punjabi"
             ],
-            "avgRating": 4.2,
+            "avgRating": 3.7,
             "veg": true,
             "parentId": "290409",
-            "avgRatingString": "4.2",
+            "avgRatingString": "3.7",
             "totalRatingsString": "1.5K+",
             "sla": {
                 "deliveryTime": 23,
@@ -618,9 +618,9 @@ const resList = [
                 "Sweets",
                 "Ice Cream"
             ],
-            "avgRating": 4.5,
+            "avgRating": 3.5,
             "parentId": "7003",
-            "avgRatingString": "4.5",
+            "avgRatingString": "3.5",
             "totalRatingsString": "2.2K+",
             "sla": {
                 "deliveryTime": 20,
@@ -740,10 +740,10 @@ const resList = [
                 "Bakery",
                 "Desserts"
             ],
-            "avgRating": 4.5,
+            "avgRating": 3.5,
             "veg": true,
             "parentId": "465380",
-            "avgRatingString": "4.5",
+            "avgRatingString": "3.5",
             "totalRatingsString": "1.0K+",
             "sla": {
                 "deliveryTime": 19,
@@ -1011,9 +1011,9 @@ const resList = [
                 "Pizzas",
                 "Italian"
             ],
-            "avgRating": 4.4,
+            "avgRating": 3.6,
             "parentId": "11633",
-            "avgRatingString": "4.4",
+            "avgRatingString": "3.6",
             "totalRatingsString": "2.5K+",
             "sla": {
                 "deliveryTime": 27,
@@ -1130,10 +1130,10 @@ const resList = [
                 "Ice Cream",
                 "Desserts"
             ],
-            "avgRating": 4.2,
+            "avgRating": 3.7,
             "veg": true,
             "parentId": "5655",
-            "avgRatingString": "4.2",
+            "avgRatingString": "3.7",
             "totalRatingsString": "2.0K+",
             "sla": {
                 "deliveryTime": 17,
@@ -1241,9 +1241,9 @@ const resList = [
                 "Street Food",
                 "Sweets"
             ],
-            "avgRating": 4.5,
+            "avgRating": 3.5,
             "parentId": "281782",
-            "avgRatingString": "4.5",
+            "avgRatingString": "3.5",
             "totalRatingsString": "3.0K+",
             "sla": {
                 "deliveryTime": 28,
@@ -1331,7 +1331,7 @@ const resList = [
             "restaurantOfferPresentationInfo": {},
             "externalRatings": {
                 "aggregatedRating": {
-                    "rating": "4.2",
+                    "rating": "3.7",
                     "ratingCount": "703"
                 },
                 "source": "GOOGLE",
@@ -1451,9 +1451,9 @@ const resList = [
                 "Sweets",
                 "Bakery"
             ],
-            "avgRating": 4.4,
+            "avgRating": 3.6,
             "parentId": "611",
-            "avgRatingString": "4.4",
+            "avgRatingString": "3.6",
             "totalRatingsString": "1.7K+",
             "sla": {
                 "deliveryTime": 23,
@@ -1576,9 +1576,9 @@ const resList = [
                 "Chinese",
                 "North Indian"
             ],
-            "avgRating": 4.2,
+            "avgRating": 3.7,
             "parentId": "332",
-            "avgRatingString": "4.2",
+            "avgRatingString": "3.7",
             "totalRatingsString": "6.6K+",
             "sla": {
                 "deliveryTime": 32,
@@ -1625,7 +1625,7 @@ const resList = [
             "restaurantOfferPresentationInfo": {},
             "externalRatings": {
                 "aggregatedRating": {
-                    "rating": "4.4",
+                    "rating": "3.6",
                     "ratingCount": "281"
                 },
                 "source": "GOOGLE",
@@ -1655,9 +1655,9 @@ const resList = [
                 "Chinese",
                 "Beverages"
             ],
-            "avgRating": 4.1,
+            "avgRating": 3.2,
             "parentId": "1636",
-            "avgRatingString": "4.1",
+            "avgRatingString": "3.2",
             "totalRatingsString": "2.5K+",
             "sla": {
                 "deliveryTime": 31,
@@ -1922,9 +1922,9 @@ const resList = [
                 "Chinese",
                 "Thai"
             ],
-            "avgRating": 4.1,
+            "avgRating": 3.2,
             "parentId": "103",
-            "avgRatingString": "4.1",
+            "avgRatingString": "3.2",
             "totalRatingsString": "26K+",
             "sla": {
                 "deliveryTime": 27,
@@ -2052,9 +2052,9 @@ const resList = [
                 "Italian",
                 "Turkish"
             ],
-            "avgRating": 4.4,
+            "avgRating": 3.6,
             "parentId": "3518",
-            "avgRatingString": "4.4",
+            "avgRatingString": "3.6",
             "totalRatingsString": "6.9K+",
             "sla": {
                 "deliveryTime": 24,
@@ -2319,7 +2319,7 @@ const resList = [
             "restaurantOfferPresentationInfo": {},
             "externalRatings": {
                 "aggregatedRating": {
-                    "rating": "4.1",
+                    "rating": "3.2",
                     "ratingCount": "2.4K+"
                 },
                 "source": "GOOGLE",
@@ -2354,9 +2354,9 @@ const resList = [
                 "Desserts",
                 "Beverages"
             ],
-            "avgRating": 4.2,
+            "avgRating": 3.7,
             "parentId": "3952",
-            "avgRatingString": "4.2",
+            "avgRatingString": "3.7",
             "totalRatingsString": "1.4K+",
             "sla": {
                 "deliveryTime": 39,
